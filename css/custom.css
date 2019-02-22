@@ -1,0 +1,134 @@
+body {
+    padding-top: 90px; 
+}
+
+.navbar-brand {
+    font-family: "Anton";
+    font-size: 2.0em;
+}
+
+.navbar {
+    border: 0.5px solid #000;
+
+}
+
+.jumbotron {
+    background-image: url(../images/jumboLogo.jpg);
+    background-size: cover;
+}
+
+
+.jumbotron {
+    color: white;
+    font-family: "Anton";
+}
+
+.img-thumbnail {
+    width: 100%;
+    height: 250px;
+    margin-bottom: 20px;
+    background-size: cover;
+    background-position: center center;
+}
+
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+    color: #000;
+}
+
+.post-content:hover {
+    opacity: 0.7;
+}
+
+.post-content a:hover {
+    text-decoration: none;
+    color: darkblue;
+
+}
+
+.post-content a:active,
+a:visited,
+a:link {
+    color: dimgrey;
+
+}
+
+.post-content {
+    background: none repeat scroll 0 0 #f1f1f1;
+    opacity: 0.5;
+    margin: 0 auto;
+    width: 100%;
+}
+
+
+hr.myStyle {
+    border: 0;
+    height: 1px;
+    background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+    background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+    background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+    background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+   
+}
+
+footer {
+    background: #fff;
+    padding: 10px 0;
+    text-align: center;
+    border: 0.5px solid #000;
+}
+
+footer a {
+    color: #f1f1f1;
+    font-size: 20px;
+    padding: 10px;
+    border-right: 1px solid #70726F;
+    transition: all .5s ease;
+}
+
+footer a:first-child {
+    border-left: 1px solid #70726F;
+}
+
+footer a:hover {
+    color: black;
+}
+
+.Contact-fonts {
+    font-family: "Anton";
+    letter-spacing: 0.1em;
+}
+
+.Contact-fonts .btn-primary .a:link {
+    color: white;
+}
+
+#btnDirections {
+    color: white;
+}
+
+#contactJumbo {
+    background-image: url(../images/contact-us.jpg);
+    color: white;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.highlight {
+    font-family: "Anton";
+}
+
+#profileJumbotron {
+    background-image: url(../images/profileJumbo.jpg);
+    opacity: 0.5;
+    background-size: cover;
+    color: white;
+    font-family: "Anton";
+}
