@@ -4,7 +4,7 @@ It teaches basic security concenptson how to protect against cross/site scriptin
 I enjoyed working on it, so I tried to make to more appealing and add some extra functionality, user with email verifications, admin privileges with a admin panel etc..
 
 
-<b>Languages & Frameworks Used </b>
+<b>Languages & Frameworks/Tools Used </b>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
@@ -13,6 +13,7 @@ I enjoyed working on it, so I tried to make to more appealing and add some extra
   <li>Bootstrap</li>
   <li>Google Charts </li>
   <li>SQL</li>
+  <li>GmailSMTP</li>
 </ul>
 
 
